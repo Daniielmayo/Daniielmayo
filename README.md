@@ -1,74 +1,227 @@
-<h1 align="center">¡Hola, soy Daniel! 👋</h1>
-<h3 align="center">Desarrollador Full Stack | Estudiante de Análisis y Desarrollo de Software en el SENA</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+TypeScript;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+# 👋 Hola, soy Daniel Mayo
+
+### Full Stack Software Engineer
+
+<p>
+Desarrollo aplicaciones web escalables utilizando arquitecturas modernas, tecnologías cloud y buenas prácticas de ingeniería de software.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TU-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://TU-PORTAFOLIO.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:TU_CORREO)
+
+</p>
+
+</div>
+
+---
+
+# 💼 Sobre mí
+
+Soy **Full Stack Software Engineer** con más de **4 años de experiencia** desarrollando aplicaciones empresariales, plataformas web y soluciones de comercio electrónico.
+
+Me apasiona diseñar software mantenible, escalable y orientado al negocio, aplicando principios de arquitectura limpia, automatización y buenas prácticas de desarrollo.
+
+Actualmente trabajo principalmente con:
+
+- Desarrollo Full Stack
+- Arquitecturas escalables
+- APIs REST
+- Sistemas empresariales
+- Cloud Computing
+- Automatización de procesos
+
+---
+
+# 🚀 Stack Tecnológico
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css"/>
+
 </p>
 
 ---
 
-### 🚀 Sobre mí
+## Backend
 
-- 🎓 Estudiante de **Análisis y Desarrollo de Software** en el SENA
-- 💻 Trabajo con **Next.js**, **Node.js/Express**, **TypeScript** y bases de datos **MySQL**
-- ☁️ Despliego proyectos en **Vercel**, **Render** y **Aiven**
-- 🔧 Actualmente construyendo sistemas de gestión (inventario, requerimientos de software)
-- 🌱 Aprendiendo constantemente sobre arquitectura de componentes y buenas prácticas de calidad de software
-- 📫 Contáctame: tu-correo@ejemplo.com
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
 
-### 🛠️ Stack tecnológico
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,vercel,html,css,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+## Cloud & DevOps
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+<p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=github-dark-blue&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-### 📌 Proyectos destacados
+## Herramientas
 
-<p align="center">
-  <a href="https://github.com/TU-USUARIO/nombre-repo-1">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=nombre-repo-1&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/TU-USUARIO/nombre-repo-2">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=nombre-repo-2&theme=github_dark&hide_border=true" />
-  </a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&custom_title=Contribution%20Graph&theme=github-compact" />
-</p>
+# 📌 Proyectos Destacados
+
+## 🚗 Autocard
+
+Sistema para la administración integral de órdenes de servicio automotrices.
+
+### Funcionalidades
+
+- Gestión de clientes
+- Agenda de servicios
+- Órdenes de trabajo
+- Inventario
+- Reportes
+- Cotizaciones
+
+Tecnologías
+
+- Next.js
+- Node.js
+- TypeScript
+- MySQL
+
+---
+
+## 📦 CA Store
+
+Sistema de gestión de inventario automotriz desarrollado bajo arquitectura modular.
+
+Características
+
+- Inventario en tiempo real
+- Facturación
+- Alertas de stock
+- Gestión de usuarios
+- Reportes
+
+---
+
+## 📊 Minlitica
+
+Plataforma para administración de títulos geográficos con visualización cartográfica.
+
+Incluye
+
+- Dashboard
+- Mapas interactivos
+- Polígonos
+- Gestión documental
+
+---
+
+## 🛒 Shopify Development
+
+Desarrollo de componentes personalizados y soluciones para tiendas Shopify utilizando Liquid.
+
+---
+
+# 🏗️ Arquitectura
+
+Algunos de los principios que aplico diariamente:
+
+- Clean Architecture
+- SOLID
+- Feature Based Architecture
+- Modular Design
+- Repository Pattern
+- DTO Pattern
+- JWT Authentication
+- RBAC
+- API First
+
+---
+
+# 📈 GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=2EA043&style=flat" alt="Visitor Count" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🔥 Contribuciones
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Actividad
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Logros
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&margin-w=10"/>
+
+</p>
+
+---
+
+# 🌱 Actualmente
+
+- ☁️ Profundizando en AWS
+- 🐳 Mejorando procesos DevOps con Docker
+- ⚡ Arquitecturas distribuidas
+- 🚀 Optimización de rendimiento en Next.js
+- 🤖 Automatización con Inteligencia Artificial
+
+---
+
+# 📫 Contacto
+
+📍 Colombia
+
+💼 Disponible para colaborar en proyectos de desarrollo Full Stack.
+
+<p>
+
+<a href="https://linkedin.com/in/TU-LINKEDIN">LinkedIn</a> •
+<a href="mailto:TU_CORREO">Correo</a> •
+<a href="https://TU-PORTAFOLIO.com">Portfolio</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building scalable software with clean architecture and modern technologies."
+
+</div>
