@@ -217,9 +217,14 @@
 
 <div align="center">
   <h3>🏆 Logros de GitHub</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Daniielmayo&theme=onedark&no-frame=true&row=1&column=6" width="100%"/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Pull_Shark-Merged_PRs-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pair_Extraordinaire-Co--authored-3F3D56?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quickdraw-Fast_Responder-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOLO-Merged_PRs-3F3D56?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <h3>📈 Gráfico de Actividad</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniielmayo&theme=react-dark&hide_border=true&bg_color=00000000" width="100%"/>
