@@ -1,43 +1,81 @@
 <!-- ============================================ -->
-<!-- HEADER - Impacto inmediato, sin padding      -->
+<!-- 1. HERO SECTION                              -->
 <!-- ============================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=160&section=header&text=Daniel%20Mayo&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Clean+Architecture+Advocate;AWS+Enthusiast" alt="Typing SVG"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Daniel%20Mayo&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Clean+Architecture+Advocate;AWS+Enthusiast;DevOps+in+Progress" alt="Typing SVG"/>
+  </h2>
+
   <p>
-    <b>4+ años</b> · Sistemas empresariales · Arquitecturas modulares · Cloud
+    <b>4+ años</b> construyendo sistemas empresariales escalables.
+    Especialista en <b>arquitecturas modulares</b>, <b>automatización</b> y
+    <b>soluciones cloud</b> que transforman procesos de negocio.
   </p>
-  
-  <p>
-    <a href="https://linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-    <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/Daniielmayo"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-  </p>
+
+  <br/>
+
+  <a href="https://linkedin.com/in/TU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://TU-PORTAFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-3F3D56?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Daniielmayo">
+    <img src="https://img.shields.io/badge/GitHub-3F3D56?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
+<br/><br/>
+
+<!-- ============================================ -->
+<!-- 2. ABOUT ME                                  -->
+<!-- ============================================ -->
+
+<h2 align="center">💻 Sobre mí</h2>
+
+<ul>
+  <li>🚀 <b>4+ años</b> de experiencia en desarrollo Full Stack empresarial</li>
+  <li>🏗️ Apasionado por la <b>Clean Architecture</b> y el <b>código mantenible</b></li>
+  <li>☁️ En constante evolución en <b>AWS</b> y <b>DevOps</b></li>
+  <li>🔧 Construyo <b>soluciones escalables</b> que resuelven problemas reales</li>
+  <li>📊 Enfoque en <b>optimización de rendimiento</b> y <b>experiencia de usuario</b></li>
+</ul>
+
 <br/>
 
 <!-- ============================================ -->
-<!-- ABOUT + STATS - Tabla ultra compacta         -->
+<!-- 3. STACK TECNOLÓGICO                        -->
 <!-- ============================================ -->
 
-<table width="100%">
+<h2 align="center">🛠️ Stack Tecnológico</h2>
+
+<table align="center">
   <tr>
-    <td width="55%" valign="top">
-      <h3>💻 Sobre mí</h3>
-      <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
-        <li>🚀 <b>4+ años</b> Full Stack empresarial</li>
-        <li>🏗️ <b>Clean Architecture</b> & código mantenible</li>
-        <li>☁️ AWS · Docker · GitHub Actions</li>
-        <li>⚡ Optimización · Escalabilidad · UX</li>
-      </ul>
+    <td align="center" width="25%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark"/>
     </td>
-    <td width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Daniielmayo&show_icons=true&hide_title=true&hide=contribs&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000&line_height=20&card_width=300" width="100%"/>
+    <td align="center" width="25%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,go&theme=dark"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,kubernetes,terraform&theme=dark"/>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛠️ Herramientas</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark"/>
     </td>
   </tr>
 </table>
@@ -45,67 +83,46 @@
 <br/>
 
 <!-- ============================================ -->
-<!-- STACK - 1 fila, compacto                     -->
+<!-- 4. PROYECTOS DESTACADOS                      -->
 <!-- ============================================ -->
 
-<h3 align="center">🛠️ Stack</h3>
+<h2 align="center">📌 Proyectos Destacados</h2>
 
-<table align="center" width="100%">
+<table>
   <tr>
-    <td align="center">
-      <b>Frontend</b><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark&perline=7"/>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Daniielmayo/TU-REPO-AUTOCARD">🚗 Autocard</a></h3>
+      <p align="center"><i>Sistema de administración de órdenes automotrices</i></p>
+      <p><strong>Gestión completa</strong> de clientes, agenda de servicios, inventario y reportes.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,nodejs,ts,mysql&theme=dark" width="200"/>
+      </p>
     </td>
-    <td align="center">
-      <b>Backend</b><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,py,go,mysql,postgres,mongodb&theme=dark&perline=7"/>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Daniielmayo/TU-REPO-CASTORE">📦 CA Store</a></h3>
+      <p align="center"><i>Gestión de inventario automotriz</i></p>
+      <p><strong>Arquitectura modular</strong> con inventario en tiempo real, facturación y alertas.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,js,mysql&theme=dark" width="200"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Cloud & DevOps</b><br/>
-      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,kubernetes,terraform&theme=dark&perline=5"/>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Daniielmayo/TU-REPO-MINLITICA">📊 Minlitica</a></h3>
+      <p align="center"><i>Plataforma de títulos geográficos</i></p>
+      <p><strong>Visualización cartográfica</strong> con mapas interactivos y gestión documental.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres&theme=dark" width="200"/>
+      </p>
     </td>
-    <td align="center">
-      <b>Tools</b><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark&perline=6"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ============================================ -->
-<!-- PROYECTOS - Grid con badges en línea        -->
-<!-- ============================================ -->
-
-<h3 align="center">📌 Proyectos</h3>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>🚗 Autocard</b><br/>
-      <i>Órdenes automotrices</i><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <b>📦 CA Store</b><br/>
-      <i>Inventario automotriz</i><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <b>📊 Minlitica</b><br/>
-      <i>Títulos geográficos</i><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Shopify Development</h3>
+      <p align="center"><i>Componentes personalizados para e-commerce</i></p>
+      <p><strong>Soluciones a medida</strong> usando Liquid y APIs de Shopify.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" width="200"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -113,39 +130,37 @@
 <br/>
 
 <!-- ============================================ -->
-<!-- ARQUITECTURA - Badges en línea compacta     -->
+<!-- 5. ARQUITECTURA — badges reparados          -->
 <!-- ============================================ -->
 
-<h3 align="center">🏗️ Arquitectura</h3>
+<h2 align="center">🏗️ Principios de Arquitectura</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=flat-square&logo=clean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOLID-FF6B6B?style=flat-square&logo=solid&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Modular_Design-4ECDC4?style=flat-square&logo=modular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Repository_Pattern-F9CA24?style=flat-square&logo=repository&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_First-0984E3?style=flat-square&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-00B894?style=flat-square&logo=jwt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=flat-square&logo=rbac&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modular_Design-3F3D56?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repository_Pattern-3F3D56?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_First-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-3F3D56?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC-6C63FF?style=for-the-badge"/>
 </p>
 
 <br/>
 
 <!-- ============================================ -->
-<!-- STATS + STREAK - Densas y alineadas         -->
+<!-- 6. ESTADÍSTICAS — colores unificados, sin duplicar -->
 <!-- ============================================ -->
 
-<table width="100%">
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Daniielmayo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniielmayo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&card_width=400"/>
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Daniielmayo&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&include_all_commits=true&count_private=true" width="100%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniielmayo&layout=compact&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=ffffff&langs_count=8" width="100%"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Daniielmayo&theme=tokyonight&hide_border=true&background=00000000&card_width=800"/>
+      <img src="https://streak-stats.demolab.com?user=Daniielmayo&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="70%"/>
     </td>
   </tr>
 </table>
@@ -153,16 +168,18 @@
 <br/>
 
 <!-- ============================================ -->
-<!-- ACTIVIDAD + LOGROS - 2 columnas compactas   -->
+<!-- 7. ACTIVIDAD + LOGROS                        -->
 <!-- ============================================ -->
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="60%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniielmayo&theme=tokyonight" width="100%"/>
+    <td width="50%">
+      <h3 align="center">📈 Actividad</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniielmayo&theme=github_dark" width="100%"/>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Daniielmayo&theme=tokyonight&margin-w=8&no-frame=true&row=2&column=3" width="100%"/>
+    <td width="50%">
+      <h3 align="center">🏆 Logros</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=Daniielmayo&theme=darkhub&margin-w=10&no-frame=true&row=2&column=3" width="100%"/>
     </td>
   </tr>
 </table>
@@ -170,38 +187,59 @@
 <br/>
 
 <!-- ============================================ -->
-<!-- ACTUALIDAD - Badges en línea                -->
+<!-- 8. ACTUALIDAD                                -->
 <!-- ============================================ -->
 
-<h3 align="center">🌱 Actualmente</h3>
+<h2 align="center">🌱 Actualmente enfocado en</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> Serverless
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white"/> CI/CD
-  <img src="https://img.shields.io/badge/Optimización-000000?style=flat-square&logo=next.js&logoColor=white"/> Next.js
-  <img src="https://img.shields.io/badge/IA-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> Automatización
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="32"/>
+      <br/><b>AWS</b>
+      <br/><small>Arquitecturas serverless</small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"/>
+      <br/><b>DevOps</b>
+      <br/><small>CI/CD con GitHub Actions</small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/>
+      <br/><b>Optimización</b>
+      <br/><small>Rendimiento en Next.js</small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="32"/>
+      <br/><b>IA</b>
+      <br/><small>Automatización inteligente</small>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ============================================ -->
-<!-- FOOTER - CTA + Visitas                      -->
+<!-- 9. FOOTER + CTA                              -->
 <!-- ============================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3D56,100:6C63FF&height=80&section=footer" width="100%"/>
-  
-  <h3>🤝 Conectemos</h3>
-  
-  <a href="https://linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Daniielmayo&label=Visitas&color=6C63FF&style=flat-square" alt="Profile views"/>
-  
-  <p style="font-size: 12px; color: #666;">
-    <i>"Building scalable software with clean architecture."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3D56,100:6C63FF&height=100&section=footer" width="100%"/>
+
+  <h3>🤝 ¿Construyendo algo increíble?</h3>
+
+  <a href="https://linkedin.com/in/TU-LINKEDIN">
+    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://TU-PORTAFOLIO.com">
+    <img src="https://img.shields.io/badge/Ver_Portafolio-3F3D56?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <p>
+    <i>"Building scalable software with clean architecture and modern technologies."</i>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Daniielmayo&label=Visitas+al+perfil&color=6C63FF&style=flat" alt="Profile views"/>
   </p>
 </div>
