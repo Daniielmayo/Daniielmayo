@@ -156,9 +156,9 @@ Algunos de los principios que aplico diariamente:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniielmayo&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniielmayo&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -168,7 +168,7 @@ Algunos de los principios que aplico diariamente:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Daniielmayo&theme=tokyonight"/>
 
 </p>
 
@@ -178,7 +178,7 @@ Algunos de los principios que aplico diariamente:
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniielmayo&theme=tokyonight"/>
 
 </p>
 
@@ -188,7 +188,7 @@ Algunos de los principios que aplico diariamente:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Daniielmayo&theme=tokyonight&margin-w=10"/>
 
 </p>
 
