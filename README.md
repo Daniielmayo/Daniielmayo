@@ -20,16 +20,16 @@
 
   <!-- SOCIAL BADGES -->
   <a href="https://linkedin.com/in/TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://TU-PORTAFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=flat&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Daniielmayo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -169,13 +169,13 @@
 <h2 align="center">🏗️ Principios de Arquitectura</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square&logo=codefactor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOLID_Principles-06B6D4?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Modular_Design-3B82F6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Repository_Pattern-10B981?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_First-06B6D4?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-3B82F6?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RBAC_Security-10B981?style=flat-square&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=flat&logo=codefactor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-06B6D4?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Modular_Design-3B82F6?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repository_Pattern-10B981?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_First-06B6D4?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-3B82F6?style=flat&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RBAC_Security-10B981?style=flat&logo=shield&logoColor=white"/>
 </p>
 
 <br/>
@@ -189,16 +189,16 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Daniielmayo&show_icons=true&hide_border=false&bg_color=0B0F19&title_color=10B981&icon_color=10B981&text_color=F8FAFC&border_color=1E293B&include_all_commits=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Daniielmayo&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=10B981&icon_color=10B981&text_color=F8FAFC&include_all_commits=true&count_private=true" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Daniielmayo&layout=compact&hide_border=false&bg_color=0B0F19&title_color=10B981&text_color=F8FAFC&border_color=1E293B&langs_count=8" width="100%"/>
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Daniielmayo&layout=compact&hide_border=true&bg_color=0B0F19&title_color=10B981&text_color=F8FAFC&langs_count=8" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <img src="https://streak-stats.demolab.com?user=Daniielmayo&background=0B0F19&border=1E293B&stroke=1E293B&ring=10B981&fire=10B981&currStreakLabel=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B" width="80%"/>
+      <img src="https://streak-stats.demolab.com?user=Daniielmayo&background=0B0F19&hide_border=true&stroke=00000000&ring=10B981&fire=10B981&currStreakLabel=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B" width="80%"/>
     </td>
   </tr>
 </table>
@@ -229,11 +229,11 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/Pull_Shark-Merged_PRs-10B981?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pair_Extraordinaire-Co--authored-06B6D4?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Quickdraw-Fast_Responder-3B82F6?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/YOLO-Merged_PRs-10B981?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Galaxy_Brain-Community_Solver-06B6D4?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pull_Shark-Merged_PRs-10B981?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pair_Extraordinaire-Co--authored-06B6D4?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quickdraw-Fast_Responder-3B82F6?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOLO-Merged_PRs-10B981?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Galaxy_Brain-Community_Solver-06B6D4?style=flat&logo=github&logoColor=white" />
   </p>
 
   <br/>
@@ -290,13 +290,13 @@
   <br/>
 
   <a href="https://linkedin.com/in/TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://TU-PORTAFOLIO.com">
-    <img src="https://img.shields.io/badge/Ver_Portafolio-10B981?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver_Portafolio-10B981?style=flat&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Enviar_Correo-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Enviar_Correo-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <br/><br/>
@@ -306,6 +306,6 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Daniielmayo&label=Visitas+al+perfil&color=10B981&style=flat-square" alt="Visitas al perfil"/>
+    <img src="https://komarev.com/ghpvc/?username=Daniielmayo&label=Visitas+al+perfil&color=10B981&style=flat" alt="Visitas al perfil"/>
   </p>
 </div>
