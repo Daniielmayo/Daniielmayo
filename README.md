@@ -168,7 +168,25 @@
 <br/>
 
 <!-- ============================================ -->
-<!-- 7. ACTIVIDAD + LOGROS                        -->
+<!-- 7. SNAKE ANIMATION — reemplaza el gráfico    -->
+<!-- de contribuciones estático por uno animado  -->
+<!-- que corre en tu propio GitHub Action        -->
+<!-- ============================================ -->
+
+<h2 align="center">🐍 Actividad de Contribuciones</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniielmayo/Daniielmayo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniielmayo/Daniielmayo/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" width="100%" src="https://raw.githubusercontent.com/Daniielmayo/Daniielmayo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- ============================================ -->
+<!-- 8. ACTIVIDAD + LOGROS                        -->
 <!-- ============================================ -->
 
 <table align="center">
@@ -187,7 +205,7 @@
 <br/>
 
 <!-- ============================================ -->
-<!-- 8. ACTUALIDAD                                -->
+<!-- 9. ACTUALIDAD                                -->
 <!-- ============================================ -->
 
 <h2 align="center">🌱 Actualmente enfocado en</h2>
@@ -220,7 +238,7 @@
 <br/>
 
 <!-- ============================================ -->
-<!-- 9. FOOTER + CTA                              -->
+<!-- 10. FOOTER + CTA                             -->
 <!-- ============================================ -->
 
 <div align="center">
